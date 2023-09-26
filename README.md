@@ -53,6 +53,7 @@ SonarLint
 
 Tabnine
 
+Smart Input
 
 
 
